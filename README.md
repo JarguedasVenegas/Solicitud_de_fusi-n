@@ -1,2 +1,2 @@
-# Solicitud_de_fusi-n
+# Solicitud_de_fusion
 Jessica Arguedas
